@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522990453584",
+    "firebase_url": "https://fbandroid-b55a7-default-rtdb.firebaseio.com",
+    "project_id": "fbandroid-b55a7",
+    "storage_bucket": "fbandroid-b55a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522990453584:android:3a49c90b30cd93cddfe255",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522990453584-3bp40hufmaffpkp53vpohf4bnftm97ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKAsgFIOu5puBiRy_B8FR-kmatrapNQ9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522990453584-3bp40hufmaffpkp53vpohf4bnftm97ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
